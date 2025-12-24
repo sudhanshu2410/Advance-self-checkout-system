@@ -1,6 +1,6 @@
 # 🛒 Advance Self-Checkout System
 
-This repository contains the code for an **Advance Self-Checkout System** — a software solution designed to automate the checkout process in retail environments by enabling customers to scan and pay for products without cashier assistance. Self-checkout technologies like this help reduce wait times and enhance user convenience. :contentReference[oaicite:1]{index=1}
+This repository contains the code for an **Advance Self-Checkout System** — a software solution designed to automate the checkout process in retail environments by enabling customers to scan and pay for products without cashier assistance. Self-checkout technologies like this help reduce wait times and enhance user convenience. 
 
 ---
 
@@ -18,8 +18,6 @@ The **Advance Self-Checkout System** project implements a self-checkout solution
 ✔️ Provide checkout outputs/receipts  
 ✔️ Modular code structure  
 
-(Modify this list based on what your code actually does.)
-
 ---
 
 ## 📁 Project Structure
@@ -32,21 +30,16 @@ Advance-self-checkout-system/
 ├── .gitignore # Files to ignore from git
 └── README.md # This file
 
-
-*Replace `file1.ext`, etc., with your actual file names.*
-
 ---
 
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
-| Python / Java / C++ | Code logic |
+| Python / C++ | Code logic |
 | GUI framework (Tkinter / Swing etc.) | User interface |
 | CSV / Database | Storage and billing |
 | GitHub | Version control |
-
-*Add or remove depending on your actual stack.*
 
 ---
 
@@ -56,8 +49,7 @@ Advance-self-checkout-system/
 
 Make sure you have the following installed:
 
-- Python ≥ 3.x *(if your project uses Python)*  
-- Java JDK ≥ 11 *(if your code is in Java)*  
+- Python ≥ 3.x  
 - Any other libraries/frameworks
 
 Example (Python):
